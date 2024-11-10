@@ -2,8 +2,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import Sequelize from 'sequelize';
-import { token, clientId } from './config.json';
-import { Client, Collection, GatewayIntentBits } from 'discord.js';
+const { token, clientId } = require('./config.json');
+const { Client, Collection, GatewayIntentBits } = require('discord.js');
 
 
 // Create a new client instance

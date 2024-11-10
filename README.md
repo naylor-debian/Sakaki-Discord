@@ -1,7 +1,7 @@
 Sakaki-Serices!
 <img src="https://i.ibb.co/qs37qDm/undefined-image.png" alt="Texto Alternativo">
 
-Preparatory:
+Preparatory: <br>
 1- npm install <br>
 2- Configure seu token em config.json <br>
 3- Configure seu clientId em config.json <br>

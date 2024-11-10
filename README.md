@@ -2,12 +2,17 @@ Sakaki-Serices!
 <img src="https://i.ibb.co/qs37qDm/undefined-image.png" alt="Texto Alternativo">
 
 Preparatory: <br>
-1- npm install <br>
-2- Configure seu token em config.json <br>
-3- Configure seu clientId em config.json <br>
-4 - Já o guildId Serve para fazer deploy de comandos privados so para de terminados grupos > comandos privados <br>
+
+# Installation globally with TypeScript.
+1- npm install -g typescript
+2- npm install -g ts-node
+<br>
+
+3- npm install <br>
+4- Configure seu token em config.json <br>
+5- Configure seu clientId em config.json <br>
+6 - Já o guildId Serve para fazer deploy de comandos privados so para de terminados grupos > comandos privados <br>
 <br>
 
 Run:<br>
-npm start <br>
-npm test
+ts-node main.ts <br>

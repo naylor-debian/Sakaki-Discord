@@ -6,7 +6,6 @@ Preparatory: <br>
 # Installation globally with TypeScript.
 1- npm install -g typescript <br>
 2- npm install -g ts-node <br>
-
 3- npm install <br>
 4- Configure seu token em config.json <br>
 5- Configure seu clientId em config.json <br>
